@@ -4,7 +4,7 @@ Client-server web application to guess randomly generated number.
 Application is generating random number from 1 to 10000 on window load, and then trying to guess this number.
 
 
-<img src="preview.jpg" />
+<img src="preview.png" />
 
 ## Getting Started
 
