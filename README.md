@@ -3,6 +3,9 @@
 Client-server web application to guess randomly generated number.
 Application is generating random number from 1 to 10000 on window load, and then trying to guess this number.
 
+
+<img src="preview.jpg" />
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -27,9 +30,9 @@ npm start
 ```
 
 
-And now all what you have to do is double-click on index.html in the main folder of application.
+And now all you have to do is double-click on index.html in the main folder of application.
 
 
 ## Built With
 
-* [minimal-express](https://github.com/kylemcdonald/minimal-express) - minimal and flexible Node.js web application framework
+* [express](https://expressjs.com/) - minimal and flexible Node.js web application framework
